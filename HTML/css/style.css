@@ -631,10 +631,10 @@ ol {
 	background: #003366;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(45deg, #6495ED 40%, #003366 60%);
+	background: -webkit-linear-gradient(100deg, #003366 30%, #6495ED 100%);
 	/* Chrome10-25,Safari5.1-6 */
-	background: -o-linear-gradient(45deg, #6495ED 40%, #003366 60%);
-	background: linear-gradient(45deg, #6495ED 40%, #003366 60%);
+	background: -o-linear-gradient(100deg, #003366 30%, #6495ED 100%);
+	background: linear-gradient(100deg, #003366 30%, #6495ED 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#6495ED', GradientType=1);
 	/* IE6-9 fallback on horizontal gradient */
