@@ -159,7 +159,7 @@ ol {
 	padding: 24px 30px;
 	border-radius: 0;
 	text-transform: uppercase;
-	color: #081624;
+	color: #6495ED;
 	line-height: normal;
 	cursor: pointer;
 	text-align: center;
@@ -197,7 +197,7 @@ ol {
 }
 
 .site-btn:hover {
-	color: #081624;
+	color: #6495ED;
 }
 
 /* Preloder */
@@ -235,7 +235,7 @@ ol {
 	50% {
 		-webkit-transform: rotate(180deg);
 		transform: rotate(180deg);
-		border: 4px solid #673ab7;
+		border: 4px solid #6495ED;
 		border-left-color: transparent;
 	}
 	100% {
@@ -254,7 +254,7 @@ ol {
 	}
 	50% {
 		-webkit-transform: rotate(180deg);
-		border: 4px solid #673ab7;
+		border: 4px solid #6495ED;
 		border-left-color: transparent;
 	}
 	100% {
@@ -286,7 +286,7 @@ ol {
 .footer-social p,
 .geme-social-share p {
 	display: inline-block;
-	color: #9190a5;
+	color: #6495ED;
 	font-size: 16px;
 	padding-top: 4px;
 }
@@ -584,7 +584,7 @@ ol {
 ---------------------*/
 
 .intro-section {
-	background: #0c062e;
+	background: #003366;
 	padding: 115px 0;
 }
 
@@ -628,15 +628,15 @@ ol {
 
 .blog-section {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
-	background: #501755;
+	background: #003366;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(45deg, #501755 0%, #2d1854 100%);
+	background: -webkit-linear-gradient(45deg, #6495ED 40%, #003366 60%);
 	/* Chrome10-25,Safari5.1-6 */
-	background: -o-linear-gradient(45deg, #501755 0%, #2d1854 100%);
-	background: linear-gradient(45deg, #501755 0%, #2d1854 100%);
+	background: -o-linear-gradient(45deg, #6495ED 40%, #003366 60%);
+	background: linear-gradient(45deg, #6495ED 40%, #003366 60%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#501755', endColorstr='#2d1854', GradientType=1);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#6495ED', GradientType=1);
 	/* IE6-9 fallback on horizontal gradient */
 }
 
