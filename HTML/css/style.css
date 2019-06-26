@@ -714,12 +714,14 @@ ol {
 
 .trending-widget .tw-item:last-child {
 	margin-bottom: 0;
+    background: #003366
 }
 
 .trending-widget .tw-thumb {
 	float: left;
 	margin-right: 17px;
 	overflow: hidden;
+    background: #003366
 }
 
 .trending-widget .tw-text .tw-meta {
@@ -727,16 +729,19 @@ ol {
 	font-size: 12px;
 	font-weight: 500;
 	margin-bottom: 7px;
+    background: #003366
 }
 
 .trending-widget .tw-text .tw-meta a {
-	color: #003366;
+	color: #FFF;
+    background: #003366
 }
 
 .trending-widget .tw-text h5 {
 	font-size: 18px;
 	color: #fff;
 	line-height: 1.5;
+    background: #003366
 }
 
 .categories-widget {
