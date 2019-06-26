@@ -286,7 +286,7 @@ ol {
 .footer-social p,
 .geme-social-share p {
 	display: inline-block;
-	color: #6495ED;
+	color: #081624;
 	font-size: 16px;
 	padding-top: 4px;
 }
@@ -307,7 +307,7 @@ ol {
 	-ms-flex-pack: center;
 	justify-content: center;
 	border-radius: 50%;
-	color: #fff;
+	color: #081624;
 	font-size: 12px;
 	margin-left: 13px;
 	-webkit-transition: all 0.3s;
@@ -939,17 +939,17 @@ ol {
 
 .gradient-bg,
 .newsletter-section {
-	background: #3e0f3d;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
+	background: #003366;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #3e0f3d 0%, #1c0f3b 100%);
+	background: -webkit-linear-gradient(100deg, #003366 30%, #6495ED 100%);
 	/* Chrome10-25,Safari5.1-6 */
-	background: -webkit-gradient(linear, left top, right top, from(#3e0f3d), to(#1c0f3b));
-	background: -o-linear-gradient(left, #3e0f3d 0%, #1c0f3b 100%);
-	background: linear-gradient(to right, #3e0f3d 0%, #1c0f3b 100%);
+	background: -o-linear-gradient(100deg, #003366 30%, #6495ED 100%);
+	background: linear-gradient(100deg, #003366 30%, #6495ED 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e0f3d', endColorstr='#1c0f3b', GradientType=1);
-	/* IE6-9 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#6495ED', GradientType=1);
+	/* IE6-9 fallback on horizontal gradient */
 }
 
 /* --------------------
@@ -993,18 +993,17 @@ ol {
 
 .footer-section {
 	text-align: center;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#330d38+0,190d36+100 */
-	background: #330d38;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
+	background: #003366;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #330d38 0%, #190d36 100%);
+	background: -webkit-linear-gradient(100deg, #003366 30%, #6495ED 100%);
 	/* Chrome10-25,Safari5.1-6 */
-	background: -webkit-gradient(linear, left top, right top, from(#330d38), to(#190d36));
-	background: -o-linear-gradient(left, #330d38 0%, #190d36 100%);
-	background: linear-gradient(to right, #330d38 0%, #190d36 100%);
+	background: -o-linear-gradient(100deg, #003366 30%, #6495ED 100%);
+	background: linear-gradient(100deg, #003366 30%, #6495ED 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#330d38', endColorstr='#190d36', GradientType=1);
-	/* IE6-9 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#6495ED', GradientType=1);
+	/* IE6-9 fallback on horizontal gradient */
 }
 
 .footer-section .container {
@@ -1020,7 +1019,7 @@ ol {
 
 .footer-right-pic {
 	position: absolute;
-	right: 50px;
+	right: -90px;
 	bottom: 19px;
 }
 
