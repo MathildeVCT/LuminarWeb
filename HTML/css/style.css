@@ -103,7 +103,7 @@ ol {
 }
 
 ::placeholder {
-	color: #003366;
+	color: #fff;
 	font-style: italic;
 	text-transform: uppercase;
 }
@@ -325,8 +325,8 @@ ol {
 	background: #fff;
 	padding: 10px 30px;
     border-radius: 10px;
-	-webkit-box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.24);
-	box-shadow: 0 0 9px 3px rgba(226, 30, 228, 0.24);
+	-webkit-box-shadow: 0 0 9px 3px #003366;
+	box-shadow: 0 0 9px 3px #003366
 }
 
 .site-logo {
@@ -523,12 +523,13 @@ ol {
 	line-height: 1;
 	position: relative;
 	top: 100px;
-	opacity: 0;
+	opacity: 100;
+    
 }
 
 .hero-item p {
 	font-size: 24px;
-	color: rgba(255, 250, 250);
+	color: #003366;
 	font-weight: 500;
 	opacity: 0.39;
 	margin-bottom: 70px;
