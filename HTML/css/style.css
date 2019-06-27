@@ -393,7 +393,7 @@ ol {
 }
 
 .main-menu li a:hover:after {
-	background-image: url("../img/icons/arrow-down-color.png");
+	background-image: url("../img/icons/arrow-down-colorwhite.png");
 }
 
 .main-menu li a:hover i {
@@ -411,7 +411,7 @@ ol {
 }
 
 .main-menu li:hover>a:after {
-	background-image: url("../img/icons/arrow-down-color.png");
+	background-image: url("../img/icons/arrow-down-colorwhite.png");
 }
 
 .main-menu li .sub-menu {
