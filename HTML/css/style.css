@@ -1063,7 +1063,7 @@ ol {
 }
 
 .footer-social {
-	padding-top: 20px;
+	padding-top: 50px;
 	padding-bottom: 40px;
 }
 
@@ -1560,7 +1560,7 @@ ol {
 	.hero-slider .owl-dots {
 		width: 1170px;
 		left: calc(50% - 585px);
-	}
+   	}
 }
 
 /* Medium screen : 992px. */
