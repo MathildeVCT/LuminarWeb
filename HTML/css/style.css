@@ -42,13 +42,6 @@ h3 {
 	font-size: 30px;
 }
 
-.h3sous-titre {
-    color: #003366;
-    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white, white 0.1em 0.1em 0.2em;
-    margin: 40px;
-    
-}
-
 h4 {
 	font-size: 24px;
 }
@@ -90,7 +83,6 @@ ol {
 	padding: 0;
 	margin: 0;
 }
-
 
 ::-webkit-input-placeholder {
 	color: #fff;
@@ -134,8 +126,12 @@ ol {
 }
 
 .spad {
-	padding-top: 105px;
 	padding-bottom: 105px;
+}
+
+.spad1 {
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 .text-white h1,
@@ -533,7 +529,6 @@ ol {
 	position: relative;
 	top: 100px;
 	opacity: 100;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, black 0.1em 0.1em 0.2em;
     
 }
 
@@ -633,6 +628,25 @@ ol {
 .text-box .read-more img {
 	margin-left: 13px;
 }
+
+/* ----------------
+ Concept Section
+---------------------*/
+.concept-section {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
+	background: #003366;
+	/* Old browsers */
+	/* FF3.6-15 */
+	background: -webkit-linear-gradient(100deg, #003366 30%, #6495ED 100%);
+	/* Chrome10-25,Safari5.1-6 */
+	background: -o-linear-gradient(100deg, #003366 30%, #6495ED 100%);
+	background: #257aba;
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#6495ED', GradientType=1);
+	/* IE6-9 fallback on horizontal gradient */
+}
+
+
 
 /* ----------------
  Blog Section
@@ -1063,7 +1077,7 @@ ol {
 }
 
 .footer-social {
-	padding-top: 50px;
+	padding-top: 20px;
 	padding-bottom: 40px;
 }
 
@@ -1074,12 +1088,12 @@ ol {
 .copyright {
 	font-size: 12px;
 	font-weight: 500;
-	color: #000000;
+	color: #9190a5;
 	opacity: 0.20;
 }
 
 .copyright a {
-	color: #000000;
+	color: #9190a5;
 }
 
 .copyright a:hover {
@@ -1560,7 +1574,7 @@ ol {
 	.hero-slider .owl-dots {
 		width: 1170px;
 		left: calc(50% - 585px);
-   	}
+	}
 }
 
 /* Medium screen : 992px. */
