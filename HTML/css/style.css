@@ -70,7 +70,7 @@ img {
 }
 
 .img3 {
-	max-width: 180px;
+	max-width: 220px;
 }
 
 input:focus,
@@ -651,17 +651,20 @@ ol {
 	background: #257aba;
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#6495ED', GradientType=1);
-	padding-right: 50px;
-	padding-left: 50px;
 	color: #fff;
     border-radius: 10px;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-style: italic;
+	padding-bottom: 50px; 
 	/* IE6-9 fallback on horizontal gradient */
 }
 .col-2 {
 	display: inline-block;
+}
+
+.col-sm-4 {
+	padding-left: 80px;
 }
 
 
