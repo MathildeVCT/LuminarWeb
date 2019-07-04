@@ -138,7 +138,7 @@ ol {
 }
 
 .spad1 {
-	padding-top: 80px;
+	padding-top: 20px;
 	padding-bottom: 80px;
 }
 
@@ -656,7 +656,7 @@ ol {
 	text-transform: uppercase;
 	font-weight: 700;
 	font-style: italic;
-	padding-bottom: 50px; 
+	padding-bottom: 30px; 
 	/* IE6-9 fallback on horizontal gradient */
 }
 .col-2 {
