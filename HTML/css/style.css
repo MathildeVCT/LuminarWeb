@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
 	margin: 0px;
-	color: #003366;
+	color: #111111;
 	font-weight: 500;
 }
 
@@ -55,7 +55,7 @@ h6 {
 }
 
 .h3sous-titre {
-    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
     
     
 }
@@ -305,8 +305,9 @@ ol {
 .geme-social-share p {
 	display: inline-block;
 	color: #081624;
-	font-size: 16px;
+	font-size: 18px;
 	padding-top: 4px;
+
 }
 
 .header-social a,
